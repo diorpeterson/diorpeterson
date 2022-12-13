@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dior Peterson
 =====================================================================================================================================
 
-Full-stack Developer
+Front End Developer
 --------------------
 
 I am passionate about problem-solving & collaborating with others to help make a positive impact on people's lives through tech.
