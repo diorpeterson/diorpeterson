@@ -9,9 +9,9 @@ I am passionate about problem-solving & collaborating with others to help make a
 *   🌍  I'm based in Atlanta Metro Area
 *   🖥️  See my portfolio at [My portfolio](http://app.netlify.com/sites/earnest-donut-114115/overview)
 *   ✉️  You can contact me at [diorp3terson@gmail.com](mailto:diorp3terson@gmail.com)
-*   🧠  I'm learning : JavaScript | React + Redux | Node.js | Express.js | NPM | RESTful API Design | PostgresSQL |
-*   🤝  I'm open to collaborating on and contributing to Web Development projects
-*   ⚡  I am a current Computer Science Student### Skills 
+*   🧠  I'm currently learning : JavaScript | React + Redux | Node.js | Express.js | NPM | RESTful API Design | PostgresSQL |
+*   🤝  I'm open to collaborating on & contributing to Web Development projects
+*   ⚡  I am a current Computer Science Student 
 <p align="left">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
