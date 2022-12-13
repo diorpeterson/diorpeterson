@@ -1,7 +1,6 @@
-### Hi there 👋
+# Dior Peterson
 
-<!--
-**diorpeterson/diorpeterson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** Front-End Developer **
 
 Here are some ideas to get you started:
 
