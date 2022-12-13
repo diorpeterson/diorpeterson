@@ -1,6 +1,6 @@
 # Dior Peterson
 
-** Front-End Developer **
+Front-End Developer
 
 Here are some ideas to get you started:
 
